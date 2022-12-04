@@ -1,21 +1,8 @@
 ### Hi there 👋
 
 
-<!--
-**Balkiska/Balkiska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+#My GIF
+![](https://user-images.githubusercontent.com/100204853/205521404-fca51bf5-af31-47d8-8831-81af5d0ca58f.gif)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...!
-#my GIF
-[1kLR](https://user-images.githubusercontent.com/100204853/205521404-fca51bf5-af31-47d8-8831-81af5d0ca58f.gif)
-
--->
