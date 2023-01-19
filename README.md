@@ -10,7 +10,7 @@
 <p align="left">
 </p>
 
-![cover](https://media.alors-la.center/s/nu3wfl8l.jpg)        
+![cover](https://media.alors-la.center/s/5f76dhyk.png)        
 
 
 <h3 align="left">Various Techs I use:</h3>
