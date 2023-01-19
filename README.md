@@ -1,4 +1,4 @@
-![cover](https://media.alors-la.center/jfohflyj.jpg)     
+![cover](https://media.alors-la.center/s/jfohflyj.jpg)     
   
   
 👨‍💻 I’m currently working on my progress 👨‍💻
