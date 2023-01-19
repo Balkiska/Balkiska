@@ -8,7 +8,6 @@
   
 👨‍💻 I’m currently working on my progress 👨‍💻
 
-
 ![cover](https://media.alors-la.center/s/zxeuvxsf.png)
 
 <p align="left">
