@@ -5,7 +5,7 @@
 
 ![cover](https://user-images.githubusercontent.com/100204853/205521404-fca51bf5-af31-47d8-8831-81af5d0ca58f.gif)
 
-- 🔭 I’m currently working on my working progress [Kubernetes/aws](53a09af20beb5d94e8ae94ceb91daf771e78ad179b43c8adbda0fc54a9f7d2c0)
+🔭 I’m currently working on my working progress 
 
 <p align="left">
 </p>
