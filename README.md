@@ -7,7 +7,7 @@
 
 <p align="left">
 </p>
-![cover](hhttps://media.alors-la.center/s/nu3wfl8l.jpg)   
+![cover](https://media.alors-la.center/s/nu3wfl8l.jpg)   
 
 
 <h3 align="left">Various Techs I use:</h3>
