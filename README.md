@@ -9,7 +9,7 @@
 👨‍💻 I’m currently working on my progress 👨‍💻
 
 
-![Simplon.co](https://media.alors-la.center/s/zxeuvxsf.png)
+![cover](https://media.alors-la.center/s/zxeuvxsf.png)
 
 <p align="left">
 </p>
