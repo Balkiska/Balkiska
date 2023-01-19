@@ -7,9 +7,8 @@
 ![cover](https://media.alors-la.center/s/7667cwvx.png)  
 
 <p align="center">
-</p>
 👨‍💻 I’m currently working on my progress 👨‍💻
-
+</p>
 
 ![cover](https://media.alors-la.center/s/w8bzo3x5.png)        
 
