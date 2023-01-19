@@ -9,7 +9,7 @@
 👨‍💻 I’m currently working on my progress 👨‍💻
 
 
-![cover](https://ibb.co/cTy8vY0)
+![Simplon.co](https://ibb.co/cTy8vY0)
 
 <p align="left">
 </p>
