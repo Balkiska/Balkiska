@@ -1,12 +1,13 @@
-![cover](https://media.alors-la.center/s/jfohflyj.jpg)     
+ ###  You are welcomed by Edgar Allan Poe's black cat
+ 
+![cover](https://user-images.githubusercontent.com/100204853/205521404-fca51bf5-af31-47d8-8831-81af5d0ca58f.gif) 
   
-  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 👨‍💻 I’m currently working on my progress 👨‍💻
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left">
 </p>
-
+![cover](hhttps://media.alors-la.center/s/nu3wfl8l.jpg)   
 
 
 <h3 align="left">Various Techs I use:</h3>
@@ -14,9 +15,3 @@
 
 
 
-
-   
-###   Still Here?
-In that case, here is Edgar Allan Poe's *black cat*
-
-![cover](https://user-images.githubusercontent.com/100204853/205521404-fca51bf5-af31-47d8-8831-81af5d0ca58f.gif) 
