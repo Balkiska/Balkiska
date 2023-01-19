@@ -23,3 +23,7 @@
 
 
 
+| foo | bar |
+| --- | --- |
+| baz | bim |
+oiuhf
