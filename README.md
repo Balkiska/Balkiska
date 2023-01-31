@@ -1,9 +1,14 @@
 
+	<body>
+		<basefont face="Orbitron">
+
 
 <p align="center"> <del><b>
 u18OG/W2qUNFu42f7c8khIev5uh7DqTvWoQm+asHrhP7YEujH13RzJBw134pMZysPRsUJpL20UKJQrHYwyOavw
-</b></del></p>       
-  
+</b></del></p>   
+
+		</basefont>
+	</body>
     
   
 ![cover](https://media.alors-la.center/s/7667cwvx.png)  
