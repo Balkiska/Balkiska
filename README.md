@@ -1,14 +1,9 @@
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-<style>
-    body {
-        font-family: 'Source Sans Pro', 'Libre Barcode 39 Extended Text';
 
-<p> <align="center"><font size="4"><font face="OCR A Extended"><del><b>
+<p> <align="center"><font size="4"><font face="Libre Barcode 39 Extended Text"><del><b>
 u18OG/W2qUNFu42f7c8khIev5uh7DqTvWoQm+asHrhP7YEujH13RzJBw134pMZysPRsUJpL20UKJQrHYwyOavw
 </b></del></font></p>       
   
-    }
-</style>
     
   
 ![cover](https://media.alors-la.center/s/7667cwvx.png)  
