@@ -1,12 +1,11 @@
 
-<basefont face="Orbitron">
 
 
-<p align="center"> <del><b>
+
+<p align="center"> <front face="Orbitron"> <del><b>
 u18OG/W2qUNFu42f7c8khIev5uh7DqTvWoQm+asHrhP7YEujH13RzJBw134pMZysPRsUJpL20UKJQrHYwyOavw
-</b></del></p>   
+</b></del></p>  </front>
 
-		</basefont>
 
     
   
