@@ -1,8 +1,6 @@
-<p align="center">
- <p><font face="OCR A Extended">
-###  cPUomeKGY60KcT9OEOTJHKYK6+ifbx8hGfBzTZ9r1SM3WnLbhQNZwgpRXZYlqJbq1OXS38qFGzxX9b3GY3aeCeoyecIl/7Nco4vdc+4W0yidw9p62tmJYuaABR1ssVxZ
-</font><p>
-</p>       
+<p align="center"><font face="OCR A Extended">
+cPUomeKGY60KcT9OEOTJHKYK6+ifbx8hGfBzTZ9r1SM3WnLbhQNZwgpRXZYlqJbq1OXS38qFGzxX9b3GY3aeCeoyecIl/7Nco4vdc+4W0yidw9p62tmJYuaABR1ssVxZ
+</font></p>       
               
     
   
