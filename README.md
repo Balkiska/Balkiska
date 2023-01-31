@@ -2,9 +2,9 @@
 
 
 
-<p align="center"> <front face="Orbitron"> <del><b>
+<p align="center"> <front face="Orbitron"> <b>
 u18OG/W2qUNFu42f7c8khIev5uh7DqTvWoQm+asHrhP7YEujH13RzJBw134pMZysPRsUJpL20UKJQrHYwyOavw
-</b></del></p>  </front>
+</b></p>  </front>
 
 
     
