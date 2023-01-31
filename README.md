@@ -1,8 +1,8 @@
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
 
-<p> <align="center"><font size="4"><font face="Libre Barcode 39 Extended Text"><del><b>
+<p> <align="center"> <font size="4"><font face="Libre Barcode 39 Extended Text"><b>
 u18OG/W2qUNFu42f7c8khIev5uh7DqTvWoQm+asHrhP7YEujH13RzJBw134pMZysPRsUJpL20UKJQrHYwyOavw
-</b></del></font></p>       
+</b></font></p>       
   
     
   
