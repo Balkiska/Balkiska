@@ -22,9 +22,9 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 
 🛠 Tech Stack
 
-- 🚧   Python(noob) | C | C++ | Json | php
-- ⚡   MySQL | Firebase | Postman
-- 🔧   Visual Studio code | Jupyter | IntelliJ IDEA | Git
+- 🚧   C | C++ | Java | Json | Python(noob)
+- ⚡   MySQL | Postman
+- 🔧   Visual Studio code | IntelliJ IDEA | Git
 - 💄   Photoshop | Figma
 
 
