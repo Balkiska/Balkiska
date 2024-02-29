@@ -22,10 +22,10 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 
 🛠 Tech Stack
 
-- 🚧   C | C++ | Java | Json | Python(noob)
+- 🚧   C | Java | Json | PHP | Python | trying Rust
 - ⚡   MySQL | Postman
 - 🔧   Visual Studio code | IntelliJ IDEA | Git
-- 💄   Photoshop | Figma
+- 💄   Figma
 
 
 
