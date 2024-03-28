@@ -9,13 +9,13 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 
 <br/>
   
-![cover](https://media.alors-la.center/s/7667cwvx.png)  
+![cover](https://ibb.co/0nT8hkr)  
 
 <p align="center">
 👨‍💻 I’m currently working on my progress 👨‍💻
 </p>
 
-![cover](https://media.alors-la.center/s/w8bzo3x5.png)        
+![cover](https://ibb.co/0nT8hkr)        
 
 <br/>
 <br/>
