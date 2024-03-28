@@ -9,13 +9,13 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 
 <br/>
   
-![cover](https://ibb.co/0nT8hkr)  
+![cover](<a href="https://ibb.co/0nT8hkr"><img src="https://i.ibb.co/MgrWMb7/Screenshot-2024-03-28-at-11-43-37.png" alt="Screenshot-2024-03-28-at-11-43-37" border="0"></a>)  
 
 <p align="center">
 👨‍💻 I’m currently working on my progress 👨‍💻
 </p>
 
-![cover](https://ibb.co/0nT8hkr)        
+![cover](<a href="https://ibb.co/0nT8hkr"><img src="https://i.ibb.co/MgrWMb7/Screenshot-2024-03-28-at-11-43-37.png" alt="Screenshot-2024-03-28-at-11-43-37" border="0"></a>)        
 
 <br/>
 <br/>
