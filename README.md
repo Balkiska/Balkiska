@@ -26,11 +26,8 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 
 🛠 Tech Stack
 
-- 🚧   C | Java | Python | trying Rust
+- 🚧   Python | terraform | C | trying Rust
 - ⚡   MySQL | Postman | Kubernetes
-- 🔧   Visual Studio code | IntelliJ IDEA | Git
-- 💄   Figma
-  
 
 
 
