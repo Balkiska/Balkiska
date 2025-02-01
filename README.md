@@ -18,7 +18,7 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 </p>
 
 <p align="center">
-<img width="100%" alt="github" src="https://github.com/user-attachments/assets/c8875977-4932-48a1-ac4f-ac06144a4a0e" />
+<img width="100%" alt="github copy" src="https://github.com/user-attachments/assets/fe238fb0-3329-419e-8e36-84c602fe1dff" />
 </p>
 
 <br/>
