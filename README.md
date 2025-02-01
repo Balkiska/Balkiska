@@ -10,7 +10,7 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 <br/>
 
 <p align="center">
-![Screenshot](https://i.ibb.co/mqvGFs7/Screenshot-2024-03-28-at-11-57-29.png)
+<img width="383" alt="github" src="https://github.com/user-attachments/assets/cfe4eaa6-454b-41b1-901e-7196249a12b5" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 </p>
 
 <p align="center">
-![Screenshot](https://i.ibb.co/mqvGFs7/Screenshot-2024-03-28-at-11-57-29.png)
+<img width="383" alt="github" src="https://github.com/user-attachments/assets/c8875977-4932-48a1-ac4f-ac06144a4a0e" />
 </p>
 
 <br/>
