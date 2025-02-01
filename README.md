@@ -10,7 +10,7 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 <br/>
 
 <p align="center">
-<a href="https://ibb.co/nc3b82S"><img src="https://i.ibb.co/mqvGFs7/Screenshot-2024-03-28-at-11-57-29.png" alt="Screenshot-2024-03-28-at-11-57-29" border="0"></a>
+[![Screenshot](https://i.ibb.co/mqvGFs7/Screenshot-2024-03-28-at-11-57-29.png)](https://ibb.co/nc3b82S)
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 </p>
 
 <p align="center">
-<a href="https://ibb.co/nc3b82S"><img src="https://i.ibb.co/mqvGFs7/Screenshot-2024-03-28-at-11-57-29.png" alt="Screenshot-2024-03-28-at-11-57-29" border="0"></a>
+[![Screenshot](https://i.ibb.co/mqvGFs7/Screenshot-2024-03-28-at-11-57-29.png)](https://ibb.co/nc3b82S)
 </p>
 
 <br/>
