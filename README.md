@@ -26,8 +26,10 @@ fNsfp Zkrippvg lyvzqcemsfioprv !
 
 🛠 Tech Stack
 
-- 🚧   Python | terraform | C | trying Rust
-- ⚡   MySQL | Postman | Kubernetes
+- 🚧    Python | C | trying Rust
+- 🏗️    terraform | Kubernetes
+- 📓    MySQL
+- 🔧    Postman
 
 
 
